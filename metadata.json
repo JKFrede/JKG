@@ -1,0 +1,5 @@
+{
+  "name": "CryptoGuard Web Dashboard",
+  "description": "A sophisticated cryptographic toolset providing AES, DES, and TripleDES encryption/decryption with a built-in AI Security Assistant powered by Gemini. Features a professional authentication system and real-time security analysis.",
+  "requestFramePermissions": []
+}
